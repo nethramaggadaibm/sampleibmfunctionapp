@@ -1,1 +1,2 @@
-Nethra Ibm Pune
+NME: NETHRA
+cOMPANY:Ibm
